@@ -1,1 +1,0 @@
-# snsc_app
